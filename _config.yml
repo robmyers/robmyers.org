@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+#highlighter:      pygments
+
+# Permalinks
+permalink:        '/:year/:month/:day/:title/'
+relative_permalinks: false
+
+# Setup
+title:            robmyers
+tagline:          ''
+description:      '"self-defined artist, writer and hacker" – MakeTank'
+url:              https://robmyers.org
+baseurl:          /
+include:          [_pages]
+exclude:          [LICENSE.md, README.md, Gemfile, Gemfile.lock, Rakefile]
+
+author:
+  name:           'Rob Myers'
+  url:            https://twitter.com/robmyers
+
+paginate:         5
