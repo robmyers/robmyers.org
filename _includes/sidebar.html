@@ -8,17 +8,15 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About Me</a>
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.sidebar == true %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endfor %}
+      <a class="sidebar-nav-item" href="/">Home</a>
+      <a class="sidebar-nav-item" href="/about/">About Me</a>
+      <a class="sidebar-nav-item" href="/abcd/">ABCD</a>
+      <a class="sidebar-nav-item" href="/art-data/">Art Data</a>
+      <a class="sidebar-nav-item" href="/critique/">Critique</a>
+      <a class="sidebar-nav-item" href="/free-culture/">Free Culture</a>
+      <a class="sidebar-nav-item" href="/glitch-aesthetics/">Glitch Aesthetics</a>
+      <a class="sidebar-nav-item" href="/shareable-readymades/">Shareable Readymades</a>
 
       <br>
 
