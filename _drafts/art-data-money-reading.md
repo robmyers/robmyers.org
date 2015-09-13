@@ -25,6 +25,8 @@ Here's some suggested reading (recommended by me, not Furtherfield) to set the s
 
 [Bitcoin](https://unbound.co.uk/books/bitcoin) - Dominic Frisby.
 
+[Much soul, very emotion: Why I buy into the cult of Dogecoin](http://suitpossum.blogspot.ca/2014/08/why-i-buy-into-Dogecoin.html) - Brett Scott.
+
 [Conceptual Art, Cryptocurrency And Beyond](http://furtherfield.org/features/articles/conceptual-art-cryptocurrency-and-beyond) - Me.
 
 [The ABC of Accelerationist Blockchain Critique](http://furtherfield.org/features/articles/abc-accelerationist-blockchain-critique) - Me.

@@ -57,6 +57,8 @@ module Jekyll
     def galleries(content)
       doc = Nokogiri::HTML.fragment(content)
       imagenum = 1
+      #FIXME: What if there are multiple galleries per page?
+      #       It's OK for the front page, we filter each post separately.
       doc.css('ul li img').each do |img|
         url = img['src']
         ensureThumb url
