@@ -6,7 +6,7 @@ title: Shareable Readymades Watch
 
 ![Pipe](/assets/2015/pipe-at-ff.jpg)
 
-([Image](https://www.flickr.com/photos/http_gallery/22348354511/in/album-72157659703440068/) by [Furtherfield Gallery](https://www.flickr.com/photos/http_gallery/), Licensed [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/2.0/))
+([Image](https://www.flickr.com/photos/http_gallery/22348354511/in/album-72157659703440068/) by Paul Ros, Licensed [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/2.0/))
 
 
 Here's Pipe in [Furtherfield](http://furtherfield.org/)'s show "[The Human Face of Economics](http://furtherfield.org/programmes/exhibition/human-face-cryptoeconomies)", along with Urinal and Balloon Dog. You can [buy one from them](http://www.furtherfield.org/artdatamoney/shareablereadymades/) along with a certificate of inauthenticity.
