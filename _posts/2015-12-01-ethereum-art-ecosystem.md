@@ -6,7 +6,6 @@ title: Ethereum Art Ecosystem
 
 The Blockchain is an obvious medium for storing titles to property beyond currency. This includes property titles for artworks, particularly digital artworks. But there is nothing smart about using smart contracts for that. Rather than seeking to bring the failings of DRM to the blockchain, we should seek to use smart contracts to formalize more interesting economies of relationships between art and its audiences.
 
-
 # The Basics
 
 ## Items
@@ -24,7 +23,6 @@ Many items can have a pseudo-spatial relationship to other items, containing the
 An item's container is its location.
 
 Purchasing an instance of an artwork makes the purchaser the container for that instance, not the owner of the artwork contract.
-
 
 # Artworks
 
@@ -64,7 +62,7 @@ Purchased instances of an artwork may also allow their owners to veto or suggest
 
 A simple offer to purchase consists of a price.
 
-A simple offer to exhibit consists of a time, a duration and a fee. 
+A simple offer to exhibit consists of a time, a duration and a fee.
 
 The artwork can accept or decline the offer based on availability, whether the price or fee is sufficient, and any external information about the address the offer was sent from (e.g. an external blacklist).
 
@@ -83,7 +81,6 @@ Artworks receive fees for being exhibited (these can be set to zero if desired).
 ### Resale Refusal and Fees
 
 Artworks can veto sales as well as exhibitions. They can also take a percentage of any sale price, simulating the Droit de Suite/Artist's Resale Right (this can be set to zero if desired).
-
 
 # Collections
 
@@ -105,14 +102,19 @@ For the duration of the exhibition, the artwork will register it as the containe
 
 ## Auctions
 
+Auctions are containers which can accept and enforce bids up until a time limit. The placing and any extra evaluation of bids is handled by other contracts.
+
 ## Awards
+
+Awards are containers of works entered for the award, with the actual award allocated by oracle, Schelling Coin or other auditor contract.
 
 ## Competitions
 
-Turner Prize-style competitions combine exhibitions with an award at the end.
+Turner Prize-style competitions combine exhibitions with an award at the end, allocated by oracle, Schelling Coin or other auditor contract.
 
 ## Commissions
 
+Commissions specify requirements as tags and offer a price for satisfying them as confirmed by a Schellin Coin or other auditor contract.
 
 # Reviews
 
@@ -122,11 +124,10 @@ These are aggregated by Collections and may be referred to by the artwork.
 
 They can be filtered by reviewer reputation.
 
-
-
-
 # Conclusion
 
 With just a few basic types of contract and with some compexity either deferred or excluded from the system it is possible to make smart artworks and art institutions in code online in the blockchain.
 
 By moving the curatorial and developmental functions of the artworld into artworks and institutions themselves it is possible to remove the vagarities of human attention from the development of the art market while still representing human economic and aesthetic interests within it.
+
+*(Sketch from June 2015, unpublished until now.)*

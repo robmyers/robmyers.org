@@ -78,3 +78,5 @@ This sets the number of Ether per second payable as an exhibition fee. It can be
 #### Exhibited
     Exhibited(address indexed at, uint duration)
 The artwork was exhibited `at` the given address for `duration` seconds.
+
+*(Sketch from September 2015, unpublished until now.)*
