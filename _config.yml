@@ -8,8 +8,6 @@ relative_permalinks: false
 
 # Setup
 title:            robmyers
-tagline:          ''
-description:      '"self-defined artist, writer and hacker" – MakeTank'
 url:              https://robmyers.org
 baseurl:          /
 include:          [_pages]
